@@ -1,0 +1,1 @@
+<main class="app-content"><h1>Control Panel</h1></main>
